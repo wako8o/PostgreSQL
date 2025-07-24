@@ -1,4 +1,6 @@
-PostgreSQL
+Why PostgreSQL?
+
+PostgreSQL is known for its robustness, extensibility, and standards compliance. It offers a wide range of features that make it suitable for a variety of applications, from small projects to large enterprise systems.
 
 1. Data Types and Table Fundamentals
 
