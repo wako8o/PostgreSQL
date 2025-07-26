@@ -1,1 +1,1 @@
-06. Truncate Tables
+TRUNCATE TABLE issues;
